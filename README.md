@@ -1,6 +1,7 @@
 ## 👋🏻 みなさん こんにちは!
 I’m Camilla, Italian-native, lucky enough to have experienced life in Canada and France, where I was exposed to several cultural influences and began my journey in digital marketing, SEO and data analysis.
-Currently getting hands-on with data analytics and machine learning. My biggest passions are programming, data and languages, by blending an analytical approach with creativity and story-telling, and I’ll admit that data visualization has my heart beating 🤍
+
+Currently getting hands-on with data analytics and machine learning. My biggest passions are programming, data and languages, and I love blending an analytical approach with creativity and story-telling, and I’ll admit that data visualization has my heart beating 🤍
 
 ---
 ## Selected Projects:
