@@ -8,12 +8,14 @@ Here are some of my favourite and more meaningful projects developed during my b
 
 ## 🏙️ Breathe NYC
 **Goal**: rate each NYC borough based on air quality and public health conditions, analyzed overall air quality by taking into consideration particulate matters levels and identify overlooked investment opportunities across different boroughs based on current environmental conditions
+
 **Languages & libraries**: `python`, `seaborn`, `pandas`, `matplotlib`, `looker studio`, `OpenAQ API`
 
 > <a href="https://github.com/camilla-scandola/breathe_nyc">NYC air quality analysis repo</a>
 
 ## 🔮 UX A/B Test
 **Goal**: analyze whether differences observed between the control and test versions of a UX design A/B test are statistically meaningful for user interactions and conversion rates. We did a first analysis on demographics and interaction timing, and a second analysis that looked deeper into invalid step sequences within the funnel
+
 **Languages & libraries**: `python`, `seaborn`, `pandas`, `matplotlib`, `numpy`, `Tableau`, `scipy.stats`
 **Hypothesis Tests**: `z-statistic`, `p-value`
 
