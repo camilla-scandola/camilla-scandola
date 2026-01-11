@@ -1,5 +1,5 @@
 ## 👋🏻 みなさん こんにちは!
-I’m Camilla, Italian-native, lucky enough to have experienced life in Canada and France, where I was exposed to several cultural influences and began my career, and I started my journey in digital marketing, SEO and data analysis.
+I’m Camilla, Italian-native, lucky enough to have experienced life in Canada and France, where I was exposed to several cultural influences, began my career, and started my journey in digital marketing, SEO and data analysis.
 Currently getting hands-on with data analytics and machine learning. My biggest passions are programming, data and languages, I love mixing an analytical approach with creativity and story-telling, and I’ll admit that data visualization has my heart beating
 
 ---
@@ -17,6 +17,7 @@ Here are some of my favourite and more meaningful projects developed during my b
 **Goal**: analyze whether differences observed between the control and test versions of a UX design A/B test are statistically meaningful for user interactions and conversion rates. We did a first analysis on demographics and interaction timing, and a second analysis that looked deeper into invalid step sequences within the funnel
 
 **Languages & libraries**: `python`, `seaborn`, `pandas`, `matplotlib`, `numpy`, `Tableau`, `scipy.stats`
+
 **Hypothesis Tests**: `z-statistic`, `p-value`
 
 > <a href="https://github.com/camilla-scandola/ab-test-statistical-analysis">UX hypothesis testing repo</a>
