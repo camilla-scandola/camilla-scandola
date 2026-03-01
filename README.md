@@ -22,3 +22,7 @@ Here are some of my favourite and more meaningful projects developed during my b
 **Hypothesis Tests**: `z-statistic`, `p-value`
 
 > <a href="https://github.com/camilla-scandola/ab-test-statistical-analysis">UX hypothesis testing repo</a>
+
+## 🌱緑の東京、未来へ 
+
+> <a href="https://github.com/camilla-scandola/tokyo-urban-relief-analysis">Urban planning analysis repo</a>
