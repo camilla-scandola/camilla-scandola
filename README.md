@@ -24,6 +24,8 @@ Here are some of my favourite and more meaningful projects developed during my b
 > <a href="https://github.com/camilla-scandola/ab-test-statistical-analysis">UX hypothesis testing repo</a>
 
 ## 🌱緑の東京、未来へ 
-**Goal**: To track how green infrastructure has evolved across Tokyo's 23 wards between 2016 and 2023, identifying which wards show the strongest signals of greening even under significant urban pressure, and to quantify how green space, urban density, sustainability certification, and flood risk interact across the cit
+**Goal**: To track how green infrastructure has evolved across Tokyo's 23 wards between 2016 and 2023, identifying which wards show the strongest signals of greening even under significant urban pressure, and to quantify how green space, urban density, sustainability certification, and flood risk interact across the city
+
+**Languages, libraries & tools used**: `python`, `sql`, `pandas`, `numpy`, `sqlalchemy`, `sqlite3`, `geopy`, `deep_translator`, `requests`, `Tableau`
 
 > <a href="https://github.com/camilla-scandola/tokyo-urban-relief-analysis">Urban planning analysis repo</a>
